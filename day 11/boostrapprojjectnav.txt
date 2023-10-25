@@ -1,0 +1,44 @@
+ <nav class="navbar navbar-expand-lg bg-body-gray">
+            <div class="container-fluid ms-5 m-auto">
+              <a class="navbar-brand text-dark fs-3 pb-2 ms-3" href="#">Mego</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse m-auto ms-5" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item pt-2 me-0">
+                    <a class="nav-link active" aria-current="page" href="#">Creation</a>
+                  </li>
+                  <li class="nav-item pt-2 me-0">
+                    <a class="nav-link" href="#">Business</a>
+                  </li>
+                  <li class="nav-item pt-2 me-0">
+                    <a class="nav-link" href="#">Resources</a>
+                  </li>
+                  <li class="nav-item pt-2 me-0">
+                    <a class="nav-link" href="#">Pricing</a>
+                  </li>
+                  <li class="nav-item pt-2 me-0">
+                    <a class="nav-link" href="#">Suppport</a>
+                  </li>
+                  <li class="nav-item dropdown me-0 pt-2">
+                    <a class="nav-link dropdown-toggle me-5" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      More
+                    </a>
+                    <ul class="dropdown-menu" id="dropdown">
+                      <li><a class="dropdown-item" href="#">Action</a></li>
+                      <li><a class="dropdown-item" href="#">Another action</a></li>
+                      <li><hr class="dropdown-divider"></li>
+                      <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+                  </li>
+                  <i class="bi bi-globe pt-3 me-0 ms-5"></i>
+                  <li class="nav-item pt-2 me-0 ">
+                    <a class="nav-link" href="#">Login</a>
+                  </li>
+                  <li class="nav-item ">
+                    <a class="nav-link " href="#"><button class="btn btn-primary rounded-pill  text-dark"> Get Started</button></a>
+                  </li>
+              </div>
+            </div>
+        </nav>

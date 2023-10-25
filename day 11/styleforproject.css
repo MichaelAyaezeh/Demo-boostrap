@@ -1,0 +1,355 @@
+#mh1{
+    background-color: rgb(32, 49, 158);
+    height: 850px;
+    padding-top: 50px;
+}
+#mh1>h1{
+    max-width: 750px;
+    margin-left: 200px;
+    margin: auto;
+    font-size: 100px; 
+    line-height: 100px;
+}
+#mh1>p{
+  margin-top: 30px;
+  margin-left: 350px;
+  max-width: 800px;
+  line-height: 40px;
+}
+#img1{
+  margin-top: 20px;
+  width: 1180px;
+  height: 360px;
+}
+#fh1{
+ font-size:80px;
+}
+#first{
+  margin-left: 200px;
+  width: 381px;
+}
+#first>h1{
+  font-size: 50px;
+  line-height: 50px;
+}
+#first>div{
+  padding-top:30px;
+  width:800px;
+}
+.btn{
+  width: 160px;
+  padding:12px;
+}
+.sec2>h1{
+margin: auto;
+line-height: 20px; 
+width: 20px;
+}
+.sec2>p{
+margin: auto;
+width:20px;
+padding-left: 50px;        
+}
+.sec2>button{
+margin-top: 100px;
+width: 300px;
+}
+#build> div h2{
+width:600px;
+font-size: 50px;
+line-height: 60px;
+}
+#build>div:nth-child(2){
+font-size:20px;
+line-height:40px; 
+}
+#sodiv1{
+  height: 650px;
+  background-color: purple;
+}
+#sodiv1>img{
+  width: 700px;
+  height: 550px;
+}
+#sodiv2{
+background-color: rgb(204, 179, 201);
+height: 650px;
+width: 572px;
+}
+#sodiv>button{
+width: 200px;
+}
+#web{
+  margin-top:30px;
+  background-color: #ffff;
+  width: 1370px;
+  height: 435px;
+}
+#webh1{
+  font-size:54px;
+  line-height: 70px;
+  width:50px;
+}
+#takeh2{
+  margin: auto;
+  width: 500px;
+  font-size:40px;
+}
+#take1> img{
+  height: 300px;
+}
+#take2> img{
+  height: 300px;
+  width: 440px;
+}
+#drive1{
+  margin-top: 25px;
+  padding-top: 300px;
+  margin-top: 100px;
+  margin-bottom: 2px;
+}
+#drive2{
+  margin-top:5px;
+  margin-bottom: 2px;
+  height: 650px;
+  background-color:rgb(174, 99, 150)
+}
+#drive2>img{
+  padding-left: 50px;
+  width: 350px;
+  height: 280px;
+}
+#drive2>img:nth-child(4){
+ margin-top: 100px;
+ padding-top: 100px;
+ margin-left:100px;
+ width:400px;
+ height:500px;
+}
+#man1{
+  background-color:rgb(230, 132, 96);
+  height: 700px;
+  padding-top: 80px;
+  padding-right:80px;
+  padding-bottom:80px;
+  padding-left: 50px;
+}
+#manimg1{
+  margin-left:20px;
+  width: 320px;
+  height: 580px;
+  border-radius:20px;
+}
+#man2{
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: 80px;
+  margin-left: 40px;
+}
+#manh2{
+  width:600px;
+  font-size:70px;
+}
+#manbtn:hover{
+  background-color:aqua;
+}
+#howh1{
+  font-size: 70px;
+  width: 700px;
+}
+#how{
+  background-color: rgb(235, 233, 233);
+}
+#howlink{
+  color: black;
+  position: relative;
+  font-size: 25px;
+  bottom: -18px;
+  right: -30px ;
+}
+#howlink:hover{
+  color: blue;
+  transition: color 1s;
+}
+#howlist{
+  margin-left: 80px;
+  margin-top: 30px;
+  font-size: 22px;
+}
+ul li{
+  width: 680px;
+  list-style: none;
+}
+ol li{
+  width: 680px;
+}
+#how{
+  width: 1800px;
+}
+#how2{
+  margin-left: -200px;
+}
+#get1{
+  width:1812px;
+  background-color:black;
+  color:white;
+  padding-right: 40px;
+  padding-bottom: 10px;
+}
+#get2{
+  line-height:400px;
+  padding-left:150px;
+  padding-top:280px;
+  width:800px;
+}
+#getbtn{
+  font-size:18px;
+  margin-top:-260px;
+  background-color:white;
+  color:black;
+}
+#get2>h1{
+  font-size: 70px;
+}
+#get3{
+  padding-top:150px;
+  padding-left:100px;
+}
+#getimg1{
+  position:relative;
+  left:-20px;
+  width:420px;
+  height:270px;
+}
+#getimg2{
+  position:relative;
+  right:-250px;
+  width:400px;
+  height:270px;
+}
+#getimg3{
+  padding-top:40px;
+  position:relative;
+  left:-20px;
+  width:420px;
+  height:300px;
+}
+#getimg4{
+  padding-top:40px;
+  position:relative;
+  right:-250px;
+  width:400px;
+  height:300px;
+}
+.whymain{
+  background-color:rgb(249, 248, 247);
+}
+#why2{
+  padding-top:100px;
+}
+#whyh1{
+  line-height:100px;
+  width:580px;
+  font-size:80px;
+}
+#whyp{
+  font-size:30px;
+  padding-left: 450px;
+  width:900px;
+}
+#we{
+  padding-top: 5px;
+  background-color: rgb(191, 225, 214);
+  margin-top:-40px;
+  height:500px;
+}
+#weh1{
+  padding-top:50px;
+  font-size: 70px;
+}
+#wea{
+  padding-top:70px;
+}
+#wea:hover{
+  color: aqua;
+}
+#faqsh1{
+  padding-top: 100px;
+}
+#faqsrow{
+  padding-top:70px;
+  padding-bottom:70px ;
+}
+.tommain{
+  background-color: rgb(190, 154, 224);
+  height:400px; 
+}
+#tomh1{
+  margin-left:20px;
+  padding-top:100px;
+  font-size: 70px;
+  margin-bottom:40px;
+}
+#tombtn{
+  font-size:20px;
+  margin-top:70px;
+  margin-left: 450px;
+}
+#footlists{
+  text-decoration: none;
+}
+#footlists:hover{
+  color: rgb(75, 75, 195);
+}
+.hrsection{
+  padding: 20px;
+  background-color: rgb(66, 65, 65);
+  color: white;
+}
+.hrsection div i{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: white;
+  color: black;
+  font-size: 1rem;
+}
+.iconsside{
+  text-align: center;
+
+}
+.footicons i{
+ padding-top: 7px;
+ margin-top: 8px;
+ margin-bottom: 8px;
+}
+.nav-flex{
+  display: flex;
+}
+.nav2-flex{
+  display: flex;
+  
+}
+.nav2{
+  position: relative;
+  left: -90px;
+}
+.nav-link{
+  color: black;
+  text
+}
+.nav-link:hover{
+  color: blue;
+}
+.navbutton{
+  border: 1px solid black;
+  background-color: rgb(22,106,234);
+  border-radius: 50px;
+  padding-left: 30px ;
+  padding-right: 30px ;
+  padding-top: 10px ;
+  padding-bottom: 10px ;
+}
+.nav-linkflex{
+  display: flex;
+}
